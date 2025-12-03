@@ -1,0 +1,7 @@
+{
+  "name": "IELTS 7.5+ Coach",
+  "description": "AI-powered IELTS Speaking partner using the Sep-Dec 2025 question bank. Features audio analysis, native-level polishing, and Part 3 logic training.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
